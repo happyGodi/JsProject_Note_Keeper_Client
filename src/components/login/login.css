@@ -1,0 +1,14 @@
+input::placeholder{
+    color: #dfdfdf;
+}
+.fa-edit {
+	font-size: 75px;
+	text-fill-color: transparent;
+	-webkit-text-fill-color: transparent;
+	background: linear-gradient(-50deg, #8881d8, #ff81d8);
+	-webkit-background-clip: text;
+	background-clip: text;
+}
+.butt{
+    background-image: linear-gradient(to right, rgb(238, 45, 119), rgb(71, 36, 226));
+}

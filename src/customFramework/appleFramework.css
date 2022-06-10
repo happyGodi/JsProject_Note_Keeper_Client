@@ -1,0 +1,30 @@
+.text-w{
+    color: #ffffff
+}
+.All-line{
+    display: flex;
+    flex-direction: row;
+}
+.ico-4{
+    font-size:400%
+}
+.hr-3{
+    min-height: 3px;
+}
+.bg-n{
+    background-color: transparent;
+}
+.br-n{
+    border: none;
+}
+.text-d{
+    color: rgb(211, 211, 211)
+}
+.j-sa{
+    display: flex;
+    justify-content: space-around;
+}
+.br-w{
+    border: 2px solid #b8b8b8;
+    border-radius: 5px;
+}

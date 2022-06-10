@@ -1,0 +1,33 @@
+.home{
+    background-image: url("../../assets/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+}
+.filter{
+    background-image: linear-gradient(to right, rgb(238, 45, 119), rgb(71, 36, 226));
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    opacity: 0.4;
+}
+.log{
+    margin-top: -90vh;
+    margin-left: 5em;
+    margin-right: 5em;
+    min-height: 50vh;
+}
+.note{
+    background-color: rgb(73, 12, 185);
+    border-top-left-radius: 1.5em;
+    border-bottom-left-radius: 1.5em;
+
+}
+.login{
+    backdrop-filter: blur(20px);
+    border-top-right-radius: 1.5em;
+    border-bottom-right-radius: 1.5em;
+}
+
